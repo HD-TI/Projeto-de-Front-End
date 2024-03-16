@@ -3,4 +3,5 @@
 
 ## Utilizei HTML, CSS e JavaScript, e empreguei o Bootstrap para tornar as três telas responsivas em todos os dispositivos. O site inclui validação por JavaScript, alertas de erro para informações não preenchidas e informações incorretas, e utilizei o localStorage para armazenar informações do usuário, entre outras funcionalidades.</br>
 
-### Observação: Embora o projeto não esteja perfeito, ele me proporcionou muita experiência com o front-end e espero que possa ajudar outras pessoas em seus próprios desenvolvimentos! 😄🤓
+## Observação-1: Embora o projeto não esteja perfeito, ele me proporcionou muita experiência com o front-end e espero que possa ajudar outras pessoas em seus próprios desenvolvimentos! 😄🤓
+## Observação-2: Na pasta de login e cadastro, não contém o arquivo CSS, porque eu estilizei direto no HTML.
